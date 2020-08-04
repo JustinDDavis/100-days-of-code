@@ -38,7 +38,8 @@ function build_symmetric_set(value_reference_count){
   var symmetric_set = [];
   // Go back through, and find values with only count as 1. 
   Object.keys(value_reference_count).forEach((key)=>{
-    if (value_reference_count[key] == 1){
+    // Add in if count is an odd number
+    if (value_reference_count[key] % 2 === 1){
       symmetric_set.push(parseInt(key));
     }
   }); 
@@ -55,5 +56,19 @@ function sym() {
   return build_symmetric_set(value_reference_count);
 }
 
-var value = sym([1, 1, 2, 5], [2, 2, 3, 5], [3, 4, 5, 5]); // Failing Test...
-console.log(value);
+console.log('---');
+console.log(sym([1, 2, 3], [5, 2, 1, 4]));
+console.log([3, 4, 5]);
+console.log('---');
+console.log('---');
+console.log(sym([1, 2, 3], [5, 2, 1, 4, 5]));
+console.log([3, 4, 5]);
+console.log('---');
+console.log('---');
+console.log(sym([1, 2, 5], [2, 3, 5], [3, 4, 5]));
+console.log([1, 4, 5]);
+console.log('---');
+console.log('---');
+console.log(sym([3, 3, 3, 2, 5], [2, 1, 5, 7], [3, 4, 6, 6], [1, 2, 3], [5, 3, 9, 8], [1]));
+console.log([1, 2, 4, 5, 6, 7, 8, 9]);
+console.log('---');
