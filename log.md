@@ -16,3 +16,12 @@
 **Thoughts:** I'm somewhat frustrated that I thought I could get through this challenge somewhat easily. But for some reason there a few elements to this that have caught me by surprise, and I've been unable to finish this challenge within an hour limit. 
 
 **Link to work:** [Algorithms - Symmetric Difference](projects/1_algorithms_symmetric_difference/main.js)
+
+
+### Day 1: August 3, 2020
+
+**Today's Progress**: Finished the Symmetric Difference challenege. 
+
+**Thoughts:** I wasn't too far from the solution. I did find myself a little distracted with some messaging application. Tomorrow probably just need to work on keeping focused for the hour and the task at hand. 
+
+**Link to work:** [Algorithms - Symmetric Difference](projects/1_algorithms_symmetric_difference/main.js)
