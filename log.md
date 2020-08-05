@@ -25,3 +25,12 @@
 **Thoughts:** I wasn't too far from the solution. I did find myself a little distracted with some messaging application. Tomorrow probably just need to work on keeping focused for the hour and the task at hand. 
 
 **Link to work:** [Algorithms - Symmetric Difference](projects/1_algorithms_symmetric_difference/main.js)
+
+### Day 2: August 4, 2020
+
+**Today's Progress**: Started to go back into Javascript Testing. Watching "Understanding TDD with Modern Javascript" and following along locally.
+
+**Thoughts:** I wasn't too far from the solution. I did find myself a little distracted with some messaging application. Tomorrow probably just need to work on keeping focused for the hour and the task at hand. 
+
+**Link to work:** [Understanding TDD with Modern Javascript](https://youtu.be/oneGCBiPK_Q?t=2387) | Working Directory (projects/2_testing_javascript)
+
