@@ -34,3 +34,10 @@
 
 **Link to work:** [Understanding TDD with Modern Javascript](https://youtu.be/oneGCBiPK_Q?t=2387) | Working Directory (projects/2_testing_javascript)
 
+### Day 3: August 5, 2020
+
+**Today's Progress**: Finished TDD video and starting to work on another algorithm.
+
+**Thoughts:** I'm excited and feel more confident going into this next challenge. I feel better prepared with testing, and am starting to get familiar with the tools. 
+
+**Link to work:** [Inventory Update](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update) | Working Directory (projects/3_testing_javascript)

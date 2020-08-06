@@ -6,7 +6,3 @@ const verifyPass = (input, rules) => {
 
     return rules[0](input);
 };
-
-module.exports = {
-    verifyPass
-};
