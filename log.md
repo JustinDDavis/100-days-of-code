@@ -41,3 +41,11 @@
 **Thoughts:** I'm excited and feel more confident going into this next challenge. I feel better prepared with testing, and am starting to get familiar with the tools. 
 
 **Link to work:** [Inventory Update](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update) | Working Directory (projects/3_testing_javascript)
+
+### Day 4: August 6, 2020
+
+**Today's Progress**: I'm considering the Inventory Update as complete. FCC says it doesn't pass, but my local tests do say it passes... 
+
+**Thoughts:** I'm frustrated that my local tests pass, but FCC website doesn't. I'm considering this a win and moving on tomorrow.  
+
+**Link to work:** [Inventory Update](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update) | Working Directory (projects/3_testing_javascript)
