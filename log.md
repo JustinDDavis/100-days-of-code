@@ -57,3 +57,12 @@
 **Thoughts:** I didn't get a lot of progress made it finishing this. But if hit a few issues trying to understanding jest's mocking library, just to see what testing against console log would look like.  
 
 **Link to work:** [Kata Log - FizzBuzz Kata](https://kata-log.rocks/fizz-buzz-kata) | Working Directory (projects/4_kata_fizzbuzz)
+
+### Day 6: August 8, 2020
+
+**Today's Progress**: Wrapped up my initial try on FizzBuzz. With the extra time today, I used Tom Scott's video to reflect on how I approached the problem myself.
+
+**Thoughts:**  Today went well. I felt like I was productive, and was self-reflective on my faults and where I could get better. 
+
+**Link to work:** [Kata Log - FizzBuzz Kata](https://kata-log.rocks/fizz-buzz-kata) | [FizzBuzz: One Simple Interview Question (Tom Scott)](https://www.youtube.com/watch?v=QPZ0pIK_wsc) | Working Directory (projects/4_kata_fizzbuzz)
+
