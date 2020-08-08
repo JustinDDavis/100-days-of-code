@@ -49,3 +49,11 @@
 **Thoughts:** I'm frustrated that my local tests pass, but FCC website doesn't. I'm considering this a win and moving on tomorrow.  
 
 **Link to work:** [Inventory Update](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update) | Working Directory (projects/3_testing_javascript)
+
+### Day 5: August 7, 2020
+
+**Today's Progress**: Switched over to start working on "Katas". Trying my hand at the ol' FizzBuzz. What kind of person said, "You know words that don't get used enough?...". 
+
+**Thoughts:** I didn't get a lot of progress made it finishing this. But if hit a few issues trying to understanding jest's mocking library, just to see what testing against console log would look like.  
+
+**Link to work:** [Kata Log - FizzBuzz Kata](https://kata-log.rocks/fizz-buzz-kata) | Working Directory (projects/4_kata_fizzbuzz)
