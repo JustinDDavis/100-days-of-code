@@ -66,3 +66,10 @@
 
 **Link to work:** [Kata Log - FizzBuzz Kata](https://kata-log.rocks/fizz-buzz-kata) | [FizzBuzz: One Simple Interview Question (Tom Scott)](https://www.youtube.com/watch?v=QPZ0pIK_wsc) | Working Directory (projects/4_kata_fizzbuzz)
 
+### Day 7: August 9, 2020
+
+**Today's Progress**: Diving deeper into Unit Tests using the first few chapters of the 3rd edition "The Art of Unit Testing" by Roy Osherove. 
+
+**Thoughts:**  This resource is really starting to make me think through how to write tests in a valuable way. I'm learning a lot and I'm not even out of the first chapter. I should have started here a long time ago! 
+
+**Link to work:** [Chapter 1: The basis of unit testing](https://livebook.manning.com/book/the-art-of-unit-testing-third-edition/chapter-1/v-4/55) | Working Directory (projects/5_art_of_unit_testing_study)
