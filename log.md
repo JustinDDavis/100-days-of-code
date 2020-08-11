@@ -73,3 +73,11 @@
 **Thoughts:**  This resource is really starting to make me think through how to write tests in a valuable way. I'm learning a lot and I'm not even out of the first chapter. I should have started here a long time ago! 
 
 **Link to work:** [Chapter 1: The basis of unit testing](https://livebook.manning.com/book/the-art-of-unit-testing-third-edition/chapter-1/v-4/55) | Working Directory (projects/5_art_of_unit_testing_study)
+
+### Day 8: August 10, 2020
+
+**Today's Progress**: Finished Chapter 1 of "The Art of Unit Testing".
+
+**Thoughts:**  Still learning a lot... excited to learn more. 
+
+**Link to work:** [Chapter 1: The basis of unit testing](https://livebook.manning.com/book/the-art-of-unit-testing-third-edition/chapter-1/v-4/55) | Working Directory (projects/5_art_of_unit_testing_study)

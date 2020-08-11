@@ -177,7 +177,33 @@ Great Unit tests:
 - If I delete one test, do other tests remain unaffected?
 - Can I easily setup the needed state for a test without relying on other outside resources? 
 
-... Ready for Section 1.8
+# Integration Tests
+
+If the tests use the real network, real REST APis, real system time, the real filesystem, or a real DB.. it is now in the realm of integration testing. 
+
+They're not bad, but they're important counterparts to unit tests. they should be separated to achieve a feeling of "safe green zone". 
+
+
+Three main categories of things: 
+- Readability: If we can't read it, it's hard to maintain, hard to debug and hard to know what's wrong. 
+- Maintainability: If it's painful to maintain the rest code or production code because of the tests, our lives will become a living nightmare. 
+- Trust: If we don't trust our tests when they fail, because we don't trust the results, we start manually testing again. 
+
+
+# Finalizing our definition.
+
+> A unit test is an automated piece of code that invokes the unit of work trough an entry point, and then checks one of its exit points. A unit test is almost always written using a unit testing framework. It can be written easily and runs quickly. It’s trustworthy, readable & maintainable. It is consistent as long as the production code we control has not changed.
+
+
+# TDD
+
+3 Core skills needed for successful TDD
+1. Writing Good Tests (This Book)
+2. Writing Test-First (Other Books)
+3. SOLID Design (Other Books)
+
+
+
 
 
 
