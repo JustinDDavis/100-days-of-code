@@ -1,0 +1,11 @@
+{
+  "name": "6_kata_string_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

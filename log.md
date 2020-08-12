@@ -81,3 +81,12 @@
 **Thoughts:**  Still learning a lot... excited to learn more. 
 
 **Link to work:** [Chapter 1: The basis of unit testing](https://livebook.manning.com/book/the-art-of-unit-testing-third-edition/chapter-1/v-4/55) | Working Directory (projects/5_art_of_unit_testing_study)
+
+### Day 9: August 11, 2020
+
+**Today's Progress**: And... only the first chapter was available for free. I will consider it after its fully published, for now, i'll move to something else. 
+
+**Thoughts:**  Moved onto the "String Calculator" kata. So far... its putting me through the paces.  
+
+**Link to work:** [Katas I'm going to try and go through](https://youtu.be/oneGCBiPK_Q?t=836) | [String Calculator Kata](https://kata-log.rocks/string-calculator-kata)
+
