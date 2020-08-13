@@ -90,3 +90,10 @@
 
 **Link to work:** [Katas I'm going to try and go through](https://youtu.be/oneGCBiPK_Q?t=836) | [String Calculator Kata](https://kata-log.rocks/string-calculator-kata)
 
+### Day 10: August 12, 2020
+
+**Today's Progress**: Made it through Step 4 of the "String Calculator" kata.
+
+**Thoughts:**  Well... using more Regex that I thought I would be using. Making progress.
+
+**Link to work:** [String Calculator Kata](https://kata-log.rocks/string-calculator-kata)

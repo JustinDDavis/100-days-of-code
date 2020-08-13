@@ -23,5 +23,10 @@ describe('stringCalculator', () => {
     expect(example.Add('1,2,3,\n')).toEqual(6);
     expect(example.Add('1,2,3\n')).toEqual(6);
   });
+
+  test('should return value with special delimiter', async () => {
+    const example = new stringCalculator();
+    expect(example.Add('//;\n1;2;3')).toEqual(6);
+  });
   
 });
