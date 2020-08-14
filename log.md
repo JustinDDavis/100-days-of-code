@@ -97,3 +97,12 @@
 **Thoughts:**  Well... using more Regex that I thought I would be using. Making progress.
 
 **Link to work:** [String Calculator Kata](https://kata-log.rocks/string-calculator-kata)
+
+
+### Day 11: August 13, 2020
+
+**Today's Progress**: Took a break from the Kata and worked in Terraform to try and build a template for static website. 
+
+**Thoughts:**  
+
+**Link to work:** 
