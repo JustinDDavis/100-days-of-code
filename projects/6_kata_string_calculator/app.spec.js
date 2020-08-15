@@ -56,5 +56,10 @@ describe('stringCalculator', () => {
     const example = new stringCalculator();
     expect(example.Add('//[*][%]\n1*2%3')).toEqual(6);
   });
+
+  test('should deal with multiple delimitters with characters longer than 1', async () => {
+    const example = new stringCalculator();
+    expect(example.Add('//[**][%%]\n1**2%%3')).toEqual(6);
+  });
   
 });

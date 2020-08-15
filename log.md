@@ -115,3 +115,11 @@
 **Thoughts:**: I'm seeing the value of going through these katas, they force you through syntax boundaries, development practices, and regex things I don't think I would have otherwise. 
 
 **Link to work:** 
+
+### Day 13: August 15, 2020
+
+**Today's Progress**: I FINISHED THE "STRING CALCULATOR"!!! 
+
+**Thoughts:**: It took several days to get through this one, but it did show me the value that TDD and tests in general provides.  This is one exercise that I hope to circle back with other approaches to see where I could have clean things up. 
+
+**Link to work:** 

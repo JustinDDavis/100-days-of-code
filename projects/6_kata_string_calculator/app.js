@@ -213,7 +213,7 @@
 //   }
 // }
 
-// Step 7 & 8
+// Step 7/8/9
 class stringCalculator {
   constructor() {
     this.default_delim = [',', '\n'];
@@ -235,10 +235,19 @@ class stringCalculator {
 
     if (results.length === 3) {
       // '[*][%]'
-      
+      // var check_if_multiple_delims = results[1].match(/(?<=\[)(.*?)(?=\])/g); (If I only wanted the characters)
+      var check_if_multiple_delims = results[1].match(/\[(.*?)\]/g);
 
-      this.default_delim.push(results[1]);
-      return results[2]
+      if (check_if_multiple_delims === null) {
+        this.default_delim.push(results[1]);
+        return results[2]
+      }
+
+      check_if_multiple_delims.map((element) => {
+        this.default_delim.push(element);
+      });
+
+      return results[2]      
     }
 
     return numbers
