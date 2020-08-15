@@ -28,5 +28,33 @@ describe('stringCalculator', () => {
     const example = new stringCalculator();
     expect(example.Add('//;\n1;2;3')).toEqual(6);
   });
+
+  test('should error when passed negative values', async () => {
+    const example = new stringCalculator();
+
+    expect(() => {
+      example.Add('//;\n1;-2;-3');
+    }).toThrowError(new Error('Negative numbers are not allowed. Passed: -2,-3'));
+
+    expect(() => {
+      example.Add('1,-2,-3');
+    }).toThrowError(new Error('Negative numbers are not allowed. Passed: -2,-3'));
+
+  });
+
+  test('should ignore values >1000', async () => {
+    const example = new stringCalculator();
+    expect(example.Add('//;\n1;1001;3')).toEqual(4);
+  });
+
+  test('should deal with multiple character delimitters', async () => {
+    const example = new stringCalculator();
+    expect(example.Add('//[***]\n1***2***3')).toEqual(6);
+  });
+
+  test('should deal with multiple delimitters', async () => {
+    const example = new stringCalculator();
+    expect(example.Add('//[*][%]\n1*2%3')).toEqual(6);
+  });
   
 });
