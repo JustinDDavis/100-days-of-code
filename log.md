@@ -106,3 +106,12 @@
 **Thoughts:**  
 
 **Link to work:** 
+
+
+### Day 12: August 14, 2020
+
+**Today's Progress**: Always wrapping up this Kata that will not end for me... 
+
+**Thoughts:**: I'm seeing the value of going through these katas, they force you through syntax boundaries, development practices, and regex things I don't think I would have otherwise. 
+
+**Link to work:** 
