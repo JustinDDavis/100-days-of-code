@@ -123,3 +123,11 @@
 **Thoughts:**: It took several days to get through this one, but it did show me the value that TDD and tests in general provides.  This is one exercise that I hope to circle back with other approaches to see where I could have clean things up. 
 
 **Link to work:** 
+
+### Day 14: August 15, 2020
+
+**Today's Progress**: Chapter 1 of "Infrastructure a Code".
+
+**Thoughts:**: Running with another experiment for myself. I need some more information around IaC, and I'm going to try and use my time to study this more. 
+
+**Link to work:** 
