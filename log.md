@@ -124,7 +124,15 @@
 
 **Link to work:** 
 
-### Day 14: August 15, 2020
+### Day 14: August 16, 2020
+
+**Today's Progress**: Chapter 1 of "Infrastructure a Code".
+
+**Thoughts:**: Running with another experiment for myself. I need some more information around IaC, and I'm going to try and use my time to study this more. 
+
+**Link to work:** 
+
+### Day 15: August 17, 2020
 
 **Today's Progress**: Chapter 1 of "Infrastructure a Code".
 
