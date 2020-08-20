@@ -139,3 +139,19 @@
 **Thoughts:**: Running with another experiment for myself. I need some more information around IaC, and I'm going to try and use my time to study this more. 
 
 **Link to work:** 
+
+### Day 16: August 18, 2020
+
+**Today's Progress**: Continued focusing on Infrastructure as code. 
+
+**Thoughts:**: 
+
+**Link to work:** 
+
+### Day 17: August 19, 2020
+
+**Today's Progress**: Twitter... trying to figure out next Kata... 
+
+**Thoughts:**: 
+
+**Link to work:** 
