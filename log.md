@@ -155,3 +155,15 @@
 **Thoughts:**: 
 
 **Link to work:** 
+
+### Day 18: August 20, 2020
+
+**Today's Progress**: 
+
+**Thoughts:**: 
+I'm going to go ahead and dive into a project. 
+Let's start with a static website...
+- Terraform
+- S3 / CloudFront
+
+**Link to work:** 
