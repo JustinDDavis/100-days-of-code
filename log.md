@@ -168,11 +168,18 @@ Let's start with a static website...
 
 **Link to work:** 
 
-
 ### Day 19: August 21, 2020
 
 **Today's Progress**: S3/Cloudfront site is working! :) I'm not cleaning up the project so its easier to share. 
 
 **Thoughts:**: Feeling optimistic! 
+
+**Link to work:** 
+
+### Day 20: August 22, 2020
+
+**Today's Progress**: Cleanup was successful with the Terraform project. I'm now working to writeup some documentation to allow ease of use for others.
+
+**Thoughts:**: 
 
 **Link to work:** 
