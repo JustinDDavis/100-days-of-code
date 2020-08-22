@@ -167,3 +167,12 @@ Let's start with a static website...
 - S3 / CloudFront
 
 **Link to work:** 
+
+
+### Day 19: August 21, 2020
+
+**Today's Progress**: S3/Cloudfront site is working! :) I'm not cleaning up the project so its easier to share. 
+
+**Thoughts:**: Feeling optimistic! 
+
+**Link to work:** 
