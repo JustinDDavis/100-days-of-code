@@ -183,3 +183,32 @@ Let's start with a static website...
 **Thoughts:**: 
 
 **Link to work:** 
+
+### Day 21: August 23, 2020
+
+**Today's Progress**: Worked on README file for walkthrough. 
+
+**Thoughts:**: 
+
+**Link to work:** 
+
+### Day 22: August 24, 2020
+
+**Today's Progress**: Worked on fixing the IAM Policy so that only the necessary actions are necessary. 
+
+**Thoughts:**: 
+
+**Link to work:** 
+
+### Day 23: August 25, 2020
+
+**Today's Progress**: Finished refactoring IAM Policy. I think I'm ready to share, but will wait until after a meeting on Thursday night before making it public. 
+
+**Thoughts:**: 
+
+**Link to work:** 
+
+
+
+
+
