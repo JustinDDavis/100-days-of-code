@@ -208,7 +208,13 @@ Let's start with a static website...
 
 **Link to work:** 
 
+### Day 24: August 26, 2020
 
+**Today's Progress**: Starting over... going through from the beginning of FreeCodeCamp. Just finished Basic HTML and HTML5. 
+
+**Thoughts:**: 
+
+**Link to work:** 
 
 
 
