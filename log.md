@@ -216,5 +216,26 @@ Let's start with a static website...
 
 **Link to work:** 
 
+### Day 25: August 27, 2020
 
+**Today's Progress**: Worked with someone from CodeBuddies and walkthrough my Terraform example 
 
+**Thoughts:**: 
+
+**Link to work:** 
+
+### Day 26: August 28, 2020
+
+**Today's Progress**: I might try Angular... 
+
+**Thoughts:**: 
+Using the guide here: https://angular.io/start
+
+Since I've only been exposed to Vuejs, there were some nice features in Angular. 
+I did appreciate that HTML/CSS were separate files that you then plugged into the "Component" definition.
+
+On the component, Property bindings are defined with brackets "[]" and event bindings were defined with "()". 
+
+Angular uses decorators quite a bit, so that was a bit of a learning. 
+
+**Link to work:** 
