@@ -239,3 +239,20 @@ On the component, Property bindings are defined with brackets "[]" and event bin
 Angular uses decorators quite a bit, so that was a bit of a learning. 
 
 **Link to work:** 
+
+### Day 26+1: August 29, 2020
+
+**Today's Progress**: Missed day due to trip. 
+
+**Thoughts:**:  
+
+**Link to work:** 
+
+### Day 27: August 30, 2020
+
+**Today's Progress**: Going to recreate the Angular project that was setup for me as part of the demo from day 26. 
+
+
+**Thoughts:**: 
+
+**Link to work:** 

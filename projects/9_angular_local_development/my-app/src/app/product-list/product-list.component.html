@@ -1,0 +1,19 @@
+<p>product-list works!</p>
+
+<div *ngFor="let product of products">
+    <h3>
+        <a [title]="product.name + ' Details'">{{product.name}}</a>
+    </h3>
+
+    <p *ngIf="product.description">
+        Description: {{ product.description }}
+    </p>
+
+    <button (click)="share()">
+    </button>
+
+    <app-product-alerts
+        [product]="product"
+        (notify)="notify_me($event)">
+    </app-product-alerts>
+</div>
