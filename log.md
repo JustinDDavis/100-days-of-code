@@ -251,8 +251,13 @@ Angular uses decorators quite a bit, so that was a bit of a learning.
 ### Day 27: August 30, 2020
 
 **Today's Progress**: Going to recreate the Angular project that was setup for me as part of the demo from day 26. 
-
-
 **Thoughts:**: 
-
 **Link to work:** 
+
+### Day 28: September 2, 2020
+
+**Today's Progress**: Working on understanding binary reading.
+**Thoughts:**: 
+**Link to work:** 
+- https://www.tutorialsteacher.com/python/python-read-write-file
+- https://homework.adhoc.team/proto/
