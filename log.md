@@ -261,3 +261,12 @@ Angular uses decorators quite a bit, so that was a bit of a learning.
 **Link to work:** 
 - https://www.tutorialsteacher.com/python/python-read-write-file
 - https://homework.adhoc.team/proto/
+
+### Day 29: September 3, 2020
+
+**Today's Progress**: 
+**Thoughts:**: 
+**Link to work:** 
+- https://www.devdungeon.com/content/working-binary-data-python
+- https://docs.python.org/3/library/struct.html#struct.unpack
+- https://homework.adhoc.team/proto/
