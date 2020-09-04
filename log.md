@@ -264,7 +264,7 @@ Angular uses decorators quite a bit, so that was a bit of a learning.
 
 ### Day 29: September 3, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Continued work with Binary information in Python
 **Thoughts:**: 
 **Link to work:** 
 - https://www.devdungeon.com/content/working-binary-data-python
