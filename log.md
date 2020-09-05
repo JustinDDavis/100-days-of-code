@@ -270,3 +270,12 @@ Angular uses decorators quite a bit, so that was a bit of a learning.
 - https://www.devdungeon.com/content/working-binary-data-python
 - https://docs.python.org/3/library/struct.html#struct.unpack
 - https://homework.adhoc.team/proto/
+
+### Day 30: September 4, 2020
+
+**Today's Progress**: Stuck figuring out how to use Enums... and still lost. 
+**Thoughts:**: 
+**Link to work:** 
+- https://www.devdungeon.com/content/working-binary-data-python
+- https://docs.python.org/3/library/struct.html#struct.unpack
+- https://homework.adhoc.team/proto/
